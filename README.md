@@ -1,7 +1,7 @@
-<a href="https://placefile.cnrad.workers.dev/u/yultax/tap">
+<a href="https://placefile-yultax.officialyultax.workers.dev/u/yultax/tap">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://placefile.cnrad.workers.dev/u/yultax/canvas.svg?theme=dark">
-    <img ismap src="https://placefile.cnrad.workers.dev/u/yultax/canvas.svg?theme=light" width="846" alt="Shared pixel canvas. Click a square to toggle it.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://placefile-yultax.officialyultax.workers.dev/u/yultax/canvas.svg?theme=dark">
+    <img ismap src="https://placefile-yultax.officialyultax.workers.dev/u/yultax/canvas.svg?theme=light" width="846" alt="Shared pixel canvas. Click a square to toggle it.">
   </picture>
 </a>
 
